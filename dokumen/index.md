@@ -13,4 +13,4 @@ Kalau mau lihat project saya [Klik disini](https://github.com/vrzaq/vrzaq/edit/m
 ## Join Grup WhatsApp Aku Ya
 [![Grup WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/F7MR2MG5qEiFcFgpENc5FI)
 
-*Follow Ya instagram aku :* [`instagram.app`](https://instagram.com/vr.zaq)
+Follow Ya instagram aku : [![`instagram.app`](https://icons-for-free.com/download-icon-instagram+button+instagram+logo+social+media+icon-1320190502007422654_512.png)](https://instagram.com/vr.zaq1)
