@@ -1,4 +1,4 @@
-## Biodata Arifi Razzaq 
+# Biodata Arifi Razzaq 
 
 Halo Saya Arifi Razzaq!
 Saya, Arifi Razzaq, Lahir Di medan suku Melayu keturunan Aceh Dari Ibu, Ayah saya Orang Melayu. 
@@ -10,6 +10,7 @@ Hobi Saya Beatbox, Dan Sholawat, Namun Saya Menemukan Hobi Baru Saat Kelas SD 6,
 Kalau mau lihat project saya [Klik disini](https://github.com/vrzaq/vrzaq/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 
-### Sosial Media Aku
+## Join Grup WhatsApp Aku Ya
+[![Grup WhatsApp Bot](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/F7MR2MG5qEiFcFgpENc5FI)
 
-*Follow Ya instagram aku :* [https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPhS3PpPrPO2wcw-lYivCdVnVGo-Kl-V28nrRZo9sq8yTj0dQS6K57Ams&s=10](https://instagram.com/vr.zaq)
+*Follow Ya instagram aku :* [`instagram.app`](https://instagram.com/vr.zaq)
